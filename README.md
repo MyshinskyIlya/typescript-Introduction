@@ -8,6 +8,7 @@
             <ul>
                 <li><i>React</i></li>
                 <li><i>TypeScript</i></li>
+                <li><i>Yarn</i></li>
             </ul>
             <hr>
             <h2>The task is taken from</h2>
